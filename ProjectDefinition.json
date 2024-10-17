@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://www.ibm.com/dba/solutions/solution1/DP1/ProjectDefinition.json",
+  "title": "DP1",
+  "ba_description": "",
+  "ba_type": "content",
+  "ba_repoPrimaryKey": "DP1",
+  "ba_expectedDocTypes": 0,
+  "ba_id": "502e5078-f271-4e37-a398-828a06bb6ca6",
+  "ba_dataDefinitions": [],
+  "ba_contentDefinitions": [
+    {
+      "$ref": "CD_UtilityBill.json",
+      "title": "Utility Bill",
+      "caDocTypeId": "a2827178-33da-403b-aaa8-b0bb3b820959"
+    },
+    {
+      "$ref": "CD_BillOfLading.json",
+      "title": "Bill of Lading",
+      "caDocTypeId": "63842cbd-c858-4a5d-955c-7825edb7da25"
+    },
+    {
+      "$ref": "CD_Invoice.json",
+      "title": "Invoice",
+      "caDocTypeId": "b65d6596-71e0-4def-92e4-fc5e04ff4e66"
+    }
+  ],
+  "ba_caDefinitions": "caDefinitions.json",
+  "ba_caProjectDescriptor": "35f939cc-27a2-4ef9-ad20-855f90718b72",
+  "ba_snapshotName": "v1-2024-10-17-2255",
+  "ba_versionId": "659e726e-926d-4e5a-b75a-c445bc11af60",
+  "ba_caMLModel": "MLmodel.zip",
+  "ba_versionNotes": "",
+  "ba_caClassificationModelTrainingId": "af7d7a27-460d-4a96-94a4-ae698c76613f",
+  "ba_caDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b"
+}
