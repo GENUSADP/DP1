@@ -32,5 +32,8 @@
   "ba_caMLModel": "MLmodel.zip",
   "ba_versionNotes": "",
   "ba_caClassificationModelTrainingId": "af7d7a27-460d-4a96-94a4-ae698c76613f",
-  "ba_caDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b"
+  "ba_caDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b",
+  "ba_caDeployedClassificationModelTrainingId": "af7d7a27-460d-4a96-94a4-ae698c76613f",
+  "ba_caDeployedDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b",
+  "ba_deploy_repo_id": "DEVOS1"
 }
