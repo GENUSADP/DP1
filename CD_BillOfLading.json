@@ -5,7 +5,7 @@
     "lastUpdatDate": "",
     "lastUpdate": "",
     "comment": "This is a Doc Type Definition showing some different property types",
-    "baForDeployment": true,
+    "baForDeployment": false,
     "definitions": {
         "BillOfLading": {
             "$id": "#BillOfLading",
@@ -19,7 +19,7 @@
                     "description": "This is an example of a Bill of Lading document type. ",
                     "baclass": {
                         "caDocTypeId": "63842cbd-c858-4a5d-955c-7825edb7da25",
-                        "defaultRetentionPeriod": "None",
+                        "defaultRetentionPeriod": "Permanent",
                         "retentionPeriodUnits": ""
                     },
                     "properties": {

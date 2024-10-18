@@ -5,7 +5,7 @@
     "lastUpdatDate": "",
     "lastUpdate": "",
     "comment": "This is a Doc Type Definition showing some different property types",
-    "baForDeployment": true,
+    "baForDeployment": false,
     "definitions": {
         "Invoice": {
             "$id": "#Invoice",
@@ -19,7 +19,7 @@
                     "description": "This is an example of a document type for Billing invoices",
                     "baclass": {
                         "caDocTypeId": "b65d6596-71e0-4def-92e4-fc5e04ff4e66",
-                        "defaultRetentionPeriod": "None",
+                        "defaultRetentionPeriod": "Permanent",
                         "retentionPeriodUnits": ""
                     },
                     "properties": {

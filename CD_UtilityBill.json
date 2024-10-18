@@ -19,7 +19,7 @@
                     "description": "This is an example of a document type for Utility bills.",
                     "baclass": {
                         "caDocTypeId": "a2827178-33da-403b-aaa8-b0bb3b820959",
-                        "defaultRetentionPeriod": "None",
+                        "defaultRetentionPeriod": "Permanent",
                         "retentionPeriodUnits": ""
                     },
                     "properties": {
