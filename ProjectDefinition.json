@@ -38,5 +38,7 @@
   "ba_versionId": "42ab35ad-20d7-488d-aeca-27760d05066d",
   "ba_deploy_repo_id": "DEVOS1",
   "ba_caClassificationModelTrainingId": "ec644319-690f-4e35-a274-97f26c2108a8",
-  "ba_caDataExtractionModelTrainingId": "2a7586a3-8c46-44e9-985f-5d8c26327c9b"
+  "ba_caDataExtractionModelTrainingId": "2a7586a3-8c46-44e9-985f-5d8c26327c9b",
+  "ba_caDeployedClassificationModelTrainingId": "af7d7a27-460d-4a96-94a4-ae698c76613f",
+  "ba_caDeployedDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b"
 }
