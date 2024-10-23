@@ -5,7 +5,7 @@
     "lastUpdatDate": "",
     "lastUpdate": "",
     "comment": "This is a Doc Type Definition showing some different property types",
-    "baForDeployment": true,
+    "baForDeployment": false,
     "definitions": {
         "UtilityBill": {
             "$id": "#UtilityBill",

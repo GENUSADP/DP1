@@ -5,7 +5,7 @@
     "lastUpdatDate": "",
     "lastUpdate": "",
     "comment": "This is a Doc Type Definition showing some different property types",
-    "baForDeployment": false,
+    "baForDeployment": true,
     "definitions": {
         "BillOfLading": {
             "$id": "#BillOfLading",
@@ -50,12 +50,16 @@
                         "TrackingNumber": {
                             "allOf": [
                                 {
-                                    "$ref": "unmapped"
+                                    "$ref": "proj://CDD/DD_656dfe4e-1024-4a4c-bb26-70455f423989_Subject.json#Subject"
                                 },
                                 {
                                     "caKeyClassName": "TrackingNumber",
                                     "caKeyClassId": "2179c110-a440-43f3-b74b-f6577a132427",
-                                    "caValueType": "text"
+                                    "caValueType": "text",
+                                    "type": [
+                                        "string",
+                                        "null"
+                                    ]
                                 }
                             ]
                         },
