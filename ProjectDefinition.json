@@ -7,12 +7,7 @@
   "ba_repoPrimaryKey": "DP1",
   "ba_id": "502e5078-f271-4e37-a398-828a06bb6ca6",
   "ba_expectedDocTypes": 0,
-  "ba_dataDefinitions": [
-    {
-      "$ref": "proj://CDD/DD_656dfe4e-1024-4a4c-bb26-70455f423989_Subject.json",
-      "title": "Subject"
-    }
-  ],
+  "ba_dataDefinitions": [],
   "ba_contentDefinitions": [
     {
       "$ref": "CD_UtilityBill.json",
@@ -33,12 +28,10 @@
   "ba_caDefinitions": "caDefinitions.json",
   "ba_caProjectDescriptor": "35f939cc-27a2-4ef9-ad20-855f90718b72",
   "ba_caMLModel": "MLmodel.zip",
-  "ba_snapshotName": "v3-2024-10-23-1934",
+  "ba_snapshotName": "v4-2024-10-23-2323",
   "ba_versionNotes": "",
-  "ba_versionId": "42ab35ad-20d7-488d-aeca-27760d05066d",
+  "ba_versionId": "d177c087-1167-47e7-9781-2875f8ac2c4c",
   "ba_deploy_repo_id": "DEVOS1",
   "ba_caClassificationModelTrainingId": "ec644319-690f-4e35-a274-97f26c2108a8",
-  "ba_caDataExtractionModelTrainingId": "2a7586a3-8c46-44e9-985f-5d8c26327c9b",
-  "ba_caDeployedClassificationModelTrainingId": "af7d7a27-460d-4a96-94a4-ae698c76613f",
-  "ba_caDeployedDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b"
+  "ba_caDataExtractionModelTrainingId": "2a7586a3-8c46-44e9-985f-5d8c26327c9b"
 }

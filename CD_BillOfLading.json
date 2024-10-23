@@ -50,16 +50,12 @@
                         "TrackingNumber": {
                             "allOf": [
                                 {
-                                    "$ref": "proj://CDD/DD_656dfe4e-1024-4a4c-bb26-70455f423989_Subject.json#Subject"
+                                    "$ref": "unmapped"
                                 },
                                 {
                                     "caKeyClassName": "TrackingNumber",
                                     "caKeyClassId": "2179c110-a440-43f3-b74b-f6577a132427",
-                                    "caValueType": "text",
-                                    "type": [
-                                        "string",
-                                        "null"
-                                    ]
+                                    "caValueType": "text"
                                 }
                             ]
                         },
